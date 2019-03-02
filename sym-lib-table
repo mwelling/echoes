@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name echoes)(type Legacy)(uri C:/Users/michael/Documents/GitHub/echoes/echoes/echoes.lib)(options "")(descr ""))
+  (lib (name echoes-rescue)(type Legacy)(uri ${KIPRJMOD}/echoes-rescue.lib)(options "")(descr ""))
+)
